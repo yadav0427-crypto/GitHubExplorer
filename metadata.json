@@ -1,0 +1,6 @@
+{
+  "name": "GitExplorer",
+  "description": "A production-grade open-source software and repository explorer for GitHub featuring offline caching, issue tracking, beautiful charts, and a native Markdown README viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

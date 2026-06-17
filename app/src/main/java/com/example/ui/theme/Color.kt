@@ -1,0 +1,35 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Clean Utility / Minimal Light Colors
+val LightBackground = Color(0xFFFDFBFF)
+val LightTextPrimary = Color(0xFF1A1C1E)
+val LightTextSecondary = Color(0xFF44474E)
+val LightPrimary = Color(0xFF005FB0)
+val LightOnPrimary = Color(0xFFFFFFFF)
+val LightPrimaryContainer = Color(0xFFD6E3FF)
+val LightOnPrimaryContainer = Color(0xFF001B3E)
+val LightSecondaryContainer = Color(0xFFEEF0F6)
+val LightOnSecondaryContainer = Color(0xFF1A1C1E)
+val LightSurface = Color(0xFFFFFFFF)
+val LightOnSurface = Color(0xFF1A1C1E)
+val LightSurfaceVariant = Color(0xFFEEF0F6)
+val LightOnSurfaceVariant = Color(0xFF44474E)
+val LightOutline = Color(0xFFE0E2EC)
+
+// Clean Utility / Minimal Dark Colors (Complementary eye-safe tech-slate dark mode)
+val DarkBackground = Color(0xFF101318)
+val DarkTextPrimary = Color(0xFFE3E2E6)
+val DarkTextSecondary = Color(0xFFC4C6D0)
+val DarkPrimary = Color(0xFFADC6FF)
+val DarkOnPrimary = Color(0xFF002E69)
+val DarkPrimaryContainer = Color(0xFF00478B)
+val DarkOnPrimaryContainer = Color(0xFFD6E3FF)
+val DarkSecondaryContainer = Color(0xFF242A38)
+val DarkOnSecondaryContainer = Color(0xFFE3E2E6)
+val DarkSurface = Color(0xFF1A1C22)
+val DarkOnSurface = Color(0xFFE3E2E6)
+val DarkSurfaceVariant = Color(0xFF2E323A)
+val DarkOnSurfaceVariant = Color(0xFFC4C6D0)
+val DarkOutline = Color(0xFF43474E)
